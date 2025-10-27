@@ -1,26 +1,25 @@
-# Projects
-Good day!
-I recently completed data analysis and BI course at Yandex Practicum. 
-I hold a bachelor's degree in heat energy engineering, a master's degree in economics, and a diploma in English language. 
-After finishing my education, I focused on self-development, personal projects, and building my family. 
-Now, I am fully committed to developing in the field of data analytics and am eager to apply my knowledge professionally.
+Добрый день!
 
+# <span style="color: #2E86C1;">Проекты и профессиональный опыт</span> 
+Я специалист по данным и аналитике, с сильным фокусом на обработке данных и визуализации бизнес-показателей. 
+Также имею степень бакалавра по теплоэнергетике, магистра экономики и диплом по английскому языку.  
+В настоящее время я полностью сосредоточена на развитии карьеры в области анализа данных и стремлюсь применить свои знания на практике.  
 
-**Tools and Technologies:**
-> Google Sheets / Excel
-> SQL
-> Python
-> Jupyter Notebook
-> Yandex Datalens
-> Superset
-> ClickHouse
-> PySpark
-> Airflow.
+## <span style="color: #28B463;">Инструменты и технологии</span>
+- 📊 <b>Google Sheets / Excel</b>  
+- 💾 <b>SQL</b>  
+- 🐍 <b>Python</b>  
+- 📓 <b>Jupyter Notebook</b>  
+- 🌐 <b>Yandex Datalens</b>  
+- 🖥️ <b>Superset</b>  
+- 🛠️ <b>ClickHouse</b>  
+- ⚙️ <b>PySpark</b>  
+- 🚀 <b>Airflow</b>
 
-**Skills:**
-* Calculation and visualization of business metrics
-* Statistical data analysis
-* A/B testing analysis
+## <span style="color: #D35400;">Навыки</span>
+- 📈 Расчет и визуализация бизнес-метрик  
+- 📊 Статистический анализ данных  
+- 🧪 Проведение A/B тестов  
 
-**Current status:**
-Looking for job opportunities, preferably in remote work format.
+## <span style="color: #979797;">Текущий статус</span>
+Ищу работу, предпочтительно в удаленном формате.
