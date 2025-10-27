@@ -1,4 +1,4 @@
-# PracticumProjects
+# Projects
 Good day!
 I recently completed <span style="color:red"> data analysis and BI </span> course at Yandex Practicum. 
 I hold a bachelor's degree in heat energy engineering, a master's degree in economics, and a diploma in English language. 
