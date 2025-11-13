@@ -12,7 +12,8 @@
 - 🐍 <b>Python</b>  
 - 📓 <b>Jupyter Notebook</b>  
 - 🌐 <b>Yandex Datalens</b>  
-- 🖥️ <b>Superset</b>  
+- 🖥️ <b>Superset</b>
+- 🛠️ <b>PostgreSQL</b> 
 - 🛠️ <b>ClickHouse</b>  
 - ⚙️ <b>PySpark</b>  
 - 🚀 <b>Airflow</b>
