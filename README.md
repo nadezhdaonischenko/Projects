@@ -17,6 +17,7 @@
 - 🛠️ <b>ClickHouse</b>  
 - ⚙️ <b>PySpark</b>  
 - 🚀 <b>Airflow</b>
+- 🔌 <b>API</b>
 
 ## <span style="color: #D35400;">Навыки</span>
 - 📈 Расчет и визуализация бизнес-метрик  
